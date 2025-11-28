@@ -11,7 +11,7 @@ New Era University, Quezon City, Philippines
 ---
 
 ## 🏆 Certifications
-[![SQL & Relational Databases 101](https://img.shields.io/badge/SQL-Relational%20DB-blue)](YOUR_CERTIFICATE_LINK_HERE)
+[![SQL and Relational Databases 101](https://img.shields.io/badge/SQL-Relational%20DB-blue)](YOUR_CERTIFICATE_LINK_HERE)
 
 ---
 
