@@ -11,22 +11,11 @@ New Era University, Quezon City, Philippines
 ---
 
 ## 🏆 Certifications
-[![SQL and Relational Databases 101](https://img.shields.io/badge/SQL-Relational%20DB-blue)](YOUR_CERTIFICATE_LINK_HERE)
+[SQL and Relational Databases 101](YOUR_CERTIFICATE_LINK_HERE)
 
 ---
 
 ## 💻 Skillsets
-
-### Programming & Databases
-- Java, JavaScript, HTML, CSS  
-- SQL, MySQL, IBM Cloud DB2  
-- Email Marketing, Excel  
-
-### Web & UI/UX Design
-- Figma, Canva, Lucidchart  
-
-### Tools & Platforms
-- Visual Studio Code, Git, GitHub, HubSpot  
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="36" height="36" /></a>
@@ -35,11 +24,21 @@ New Era University, Quezon City, Philippines
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="36" height="36" /></a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/canva-colored.svg" alt="Canva" width="36" height="36" /></a>
-<a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lucidchart-colored.svg" alt="Lucidchart" width="36" height="36" /></a>
-<a href="https://www.hubspot.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hubspot-colored.svg" alt="HubSpot" width="36" height="36" /></a>
-</p>
+
+  ### Programming & Databases
+- Java, JavaScript
+- MySQL, IBM Cloud DB2  
+
+### Web & UI/UX Design
+- HTML, CSS  
+- Figma, Canva, Lucidchart  
+
+### Tools & Platforms
+- Visual Studio Code, Git, GitHub, HubSpot, Canva, Figma
+
+### OTHER SKILLS
+- Email Marketing, Excel  
+
 
 ---
 
