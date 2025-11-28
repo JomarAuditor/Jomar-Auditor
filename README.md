@@ -1,6 +1,6 @@
 # Jomar Auditor
 
-Hi! I’m **Jomar Auditor**, an aspiring **Web Developer and IT Professional**. I’m passionate about coding, designing, and building efficient digital solutions.  
+Hi! I’m **Jomar Auditor**, an aspiring **IT Professional**. I’m passionate about coding, designing, and building efficient digital solutions.  
 
 ---
 
@@ -11,7 +11,7 @@ New Era University, Quezon City, Philippines
 ---
 
 ## 🏆 Certifications
-- **SQL and Relational Databases 101** – [Certificate Link](YOUR_CERTIFICATE_LINK_HERE)  
+- [**SQL and Relational Databases 101**](YOUR_CERTIFICATE_LINK_HERE)  
 
 ---
 
@@ -19,14 +19,14 @@ New Era University, Quezon City, Philippines
 - **Programming Languages:** Java, Python, JavaScript, HTML, CSS  
 - **Web Development:** Frontend (Figma, Bootstrap), Backend (MySQL, PHP)  
 - **Database Management:** SQL, Relational Databases  
-- **Tools & Platforms:** Git, GitHub, Canva, Visual Studio Code  
+- **Tools & Platforms:** Git, GitHub, Canva, VS Code  
 
 ---
 
 ## 📫 Connect With Me
-- **Portfolio:** [https://YOUR_PORTFOLIO_LINK.com](https://YOUR_PORTFOLIO_LINK.com)  
-- **GitHub:** [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
-- **Email:** YOUR_EMAIL@gmail.com  
+- [**Portfolio**](https://jomarauditorportfolio.vercel.app/)  
+- [**GitHub**](https://github.com/Jomar-Auditor)  
+- [**Email Me**](mailto:jomarskiee1121@gmail.com)  
 
 ---
 
