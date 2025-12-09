@@ -49,11 +49,5 @@ New Era University, Quezon City, Philippines
 
 ---
 
-### GitHub Stats
-<p>
-<a href="https://github.com/JomarAuditor"><img src="https://github-readme-stats.vercel.app/api?username=JomarAuditor&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false" alt="JomarAuditor's GitHub stats" /></a>
-</p>
-
-<p>
-<a href="https://github.com/JomarAuditor"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomarAuditor&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&custom_title=Top%20Languages" alt="Top Languages" /></a>
-</p>
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JomarAuditor&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=JomarAuditor&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JomarAuditor&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
