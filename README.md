@@ -14,6 +14,7 @@ New Era University, Quezon City, Philippines
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/95fde3b647c3491ebdb5a2bc0cba806a#)  
 - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1C378F7D613993DBE087A7B9BA15E5F3D8C266D2A66CEB0DD5F4A51D044C0E98)
 - [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BA7EDA1C25F2F78DCFAF2A08B84B0681CD0B54B14466D398FE9591ADDC93392B)
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=005CFBAA1D1A03C693AD2D8D0CD9901C891C729DEDB7BEEE662350F3EE99B838)
 ---
 
 ## 💻 Skillsets
