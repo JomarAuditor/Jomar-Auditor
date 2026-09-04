@@ -1,6 +1,6 @@
 <div align="center">
   <h1>JOMAR AUDITOR</h1>
-  <p>ASPIRING DATA ANALYST | AWS re/Start & AWS AI/ML Scholars | SQL • Power BI • Excel</p>
+  <p>ASPIRING CLOUD DATA ANALYST/CLOUD ARCHITECT | AWS re/Start & AWS AI/ML Scholars | SQL • Power BI • Excel</p>
   <a href="#about">ABOUT</a> | <a href="#experience">EXPERIENCE</a> | <a href="#education">EDUCATION</a> | <a href="#certifications">CERTIFICATIONS</a> | <a href="#skills">SKILLS</a> | <a href="#contact">CONTACT</a>
 </div>
 
